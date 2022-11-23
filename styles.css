@@ -4,13 +4,15 @@ display:flex;
     
 }
 .colorbutton{
-  color:rgb(180, 180, 180)
+  color:rgb(180, 180, 180);
 
 }
 
 .cards-style{ 
   border: 1px solid black;
 
- 
- 
 }
+.cards-color {
+  color:antiquewhite;
+}
+ 
